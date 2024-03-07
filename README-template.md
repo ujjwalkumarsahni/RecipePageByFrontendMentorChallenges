@@ -34,8 +34,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Recipe Page](https://your-solution-url.com)
-- Live Site URL: [Recipe Page](https://your-live-site-url.com)
+- Solution URL: [Recipe Page](https://www.frontendmentor.io/solutions/responsive-recipe-page-iLJ2jtl3yk)
+- Live Site URL: [Recipe Page](https://ujjwalkumarsahni.github.io/RecipePageByFrontendMentorChallenges/)
 
 ## My process
 
@@ -91,7 +91,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Recipe Page](https://www.your-site.com)
+- Website - [Recipe Page](https://ujjwalkumarsahni.github.io/RecipePageByFrontendMentorChallenges/)
 - Frontend Mentor - [@ujjwalkumarsahni](https://www.frontendmentor.io/profile/ujjwalkumarsahni)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
